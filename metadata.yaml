@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Andr%C3%A9_Gide
     - https://fr.wikipedia.org/wiki/Andr%C3%A9_Gide
+covers:
+- cover_type: archival
+  image_path: 73022-h/images/cover.jpg
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/125
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Conrad
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73022#Typhon
 gutenberg_issued: '2024-02-26'
 gutenberg_type: Text
 identifiers:
